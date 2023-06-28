@@ -7,7 +7,7 @@
 
 
 *Problem Solving Framework*
-1. Imported data & necessary libraries
+1. Imported data & necessary libraries                                                                    
    !pip install python
    !import numpy as np   
    !import matplotlib.pyplot as plt  
